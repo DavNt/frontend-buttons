@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://button-comp.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/DavNt/frontend-buttons/">
       Solution
     </a>
     <span> | </span>
@@ -43,7 +43,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 - Where can I see your demo?
 
-  <a href="https://{your-demo-link.your-domain}">
+  <a href="https://button-comp.netlify.app/">
     Demo
   </a>
 
