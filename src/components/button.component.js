@@ -67,14 +67,14 @@ export default class ButtonSec extends Component{
             <div className="row">
               <div className="col-md-2 m-3">
                 <button className="btn btn-labeled btn-primary">
-                  <img className="btn-label" src={ShoppingCart}/>
+                  <img className="btn-label" src={ShoppingCart} alt="."/>
                   Default
                 </button>
               </div>
               <div className="col-md-2 m-3">
                 <button className="btn btn-labeled btn-primary">
                   Default
-                  <img className="btn-label-op" src={ShoppingCart}/>
+                  <img className="btn-label-op" src={ShoppingCart} alt="."/>
                 </button>
               </div>
             </div>
